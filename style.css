@@ -2,6 +2,7 @@ body {
     color: black;
     background : white;
     margin: 0px;
+    font-family: "Anton", sans-serif;
 }
 
 header {
@@ -22,4 +23,12 @@ section {
 
 .chamada-texto{
     margin-right: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
 }
